@@ -1,24 +1,34 @@
 # Felipe Valenzuela Beck
 
-**Production AI Toolsmith** — Building tools that turn one engineer into a team.
+**On a journey to discover what's possible when one engineer meets the right AI tools.**
 
-## What I'm About
+## What I'm Exploring
 
-I build AI engineering tools that I use daily. No demos, no toy projects — everything I ship is something I depend on.
+I'm betting my time on an idea: that AI tooling can give individual engineers leverage that wasn't possible before. I don't know if I'm right. But I'm building, documenting, and sharing what I find.
 
-**Current focus**: Agent Calibration — the practice of tuning AI agents for reliable, production-grade work.
+This isn't "figured it out" territory. This is "figuring it out, in public."
 
-## Beliefs
+## Current Experiments
 
-- Software is becoming a commodity. The leverage is in tooling.
-- One engineer + the right AI tools = what used to require a team.
-- Ship it, use it, improve it. Dogfooding is the only honest feedback loop.
+- **Agent workflows** — Building pipelines that let me move faster
+- **Claude skills** — Custom tools I use daily, refined through dogfooding
+- **Open source tooling** — Giving away what I build, keeping what I learn
 
-## What I'm Building
+## The Approach
 
-*Coming soon* — Tools and writing on practical AI engineering.
+I follow Polya's problem-solving framework: understand, plan, execute, look back. That last step matters most. Every experiment—success or failure—produces learning that compounds.
+
+Movement is life. Movement is learning. Movement is evolving.
+
+## What You'll Find Here
+
+- Tools I'm building (some polished, some rough)
+- Experiments in progress
+- Things that didn't work (those are useful too)
+
+I show the work raw. The wrong turns included.
 
 ## Find Me
 
-- Blog: *coming soon*
+- Website: *coming soon*
 - Newsletter: *coming soon*
