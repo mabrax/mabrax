@@ -1,6 +1,10 @@
 ![Banner](banner.png)
 
-Hey, I'm Felipe.
+# Hey! 👋
+
+---
+
+I'm Felipe.
 
 I'm betting my time on an idea: that AI tooling can give one engineer leverage that wasn't possible before. I don't know if I'm right. But I'm building, documenting, and sharing what I find.
 
@@ -31,4 +35,4 @@ I show the work raw. The wrong turns included.
 - Website: [mabrax.ai](https://mabrax.ai)
 - Newsletter: *coming soon*
 
-If you're also figuring this out, say hi. Always curious what others are building.
+If you're also figuring this out, say hi. Always curious what others are building. ✌️
