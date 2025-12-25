@@ -31,6 +31,6 @@ I show the work raw. The wrong turns included.
 ## Find Me
 
 - Website: [mabrax.ai](https://mabrax.ai)
-- Newsletter: *coming soon*
+- Newsletter: *brewing* ☕
 
 If you're also figuring this out, say hi. Always curious what others are building. ✌️
