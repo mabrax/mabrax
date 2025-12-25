@@ -10,7 +10,7 @@ This isn't "figured it out" territory. This is figuring it out, in public.
 
 ## What I'm Playing With
 
-- **Agent workflows** — pipelines that let me move faster (when they work)
+- **Agent workflows** — pipelines that let me move faster (when they work 😅)
 - **Claude skills** — custom tools I use daily, refined through dogfooding
 - **Open source tooling** — giving away what I build, keeping what I learn
 
