@@ -2,8 +2,6 @@
 
 # Hey! 👋
 
----
-
 I'm Felipe.
 
 I'm betting my time on an idea: that AI tooling can give one engineer leverage that wasn't possible before. I don't know if I'm right. But I'm building, documenting, and sharing what I find.
