@@ -1,18 +1,18 @@
-# Felipe Valenzuela Beck
+![Banner](banner.png)
 
-**On a journey to discover what's possible when one engineer meets the right AI tools.**
+# Hey, I'm Felipe
 
-## What I'm Exploring
+I'm betting my time on an idea: that AI tooling can give one engineer leverage that wasn't possible before.
 
-I'm betting my time on an idea: that AI tooling can give individual engineers leverage that wasn't possible before. I don't know if I'm right. But I'm building, documenting, and sharing what I find.
+I don't know if I'm right. But I'm building, documenting, and sharing what I find.
 
-This isn't "figured it out" territory. This is "figuring it out, in public."
+This isn't "figured it out" territory. This is figuring it out, in public.
 
-## Current Experiments
+## What I'm Playing With
 
-- **Agent workflows** — Building pipelines that let me move faster
-- **Claude skills** — Custom tools I use daily, refined through dogfooding
-- **Open source tooling** — Giving away what I build, keeping what I learn
+- **Agent workflows** — pipelines that let me move faster (when they work)
+- **Claude skills** — custom tools I use daily, refined through dogfooding
+- **Open source tooling** — giving away what I build, keeping what I learn
 
 ## The Approach
 
@@ -30,5 +30,9 @@ I show the work raw. The wrong turns included.
 
 ## Find Me
 
-- Website: *coming soon*
+- Website: [mabrax.ai](https://mabrax.ai)
 - Newsletter: *coming soon*
+
+---
+
+If you're also figuring this out, say hi. Always curious what others are building.
