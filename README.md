@@ -1,36 +1,19 @@
 ![Banner](banner.png)
 
-# Hey! 👋
+# Hey 👋
 
-I'm Felipe.
+I'm Felipe. I do stuff with AI.
 
-I'm betting my time on an idea: that AI tooling can give one engineer leverage that wasn't possible before. I don't know if I'm right. But I'm building, documenting, and sharing what I find.
+Software, robotics, personal projects — whatever I feel like building.
 
-This isn't "figured it out" territory. This is figuring it out, in public.
+How it usually goes:
 
-## What I'm Playing With
+1. Pen and paper. I think better by hand.
+2. Books. Real ones, read with my eyes.
+3. Then AI, to build the thing.
 
-- **Agent workflows** — pipelines that let me move faster (when they work 😅)
-- **Claude skills** — custom tools I use daily, refined through dogfooding
-- **Open source tooling** — giving away what I build, keeping what I learn
+AI is the hammer.
 
-## The Approach
+Most of what's here is rough. That's fine.
 
-I follow Polya's problem-solving framework: understand, plan, execute, look back. That last step matters most. Every experiment—success or failure—produces learning that compounds.
-
-Movement is life. Movement is learning. Movement is evolving.
-
-## What You'll Find Here
-
-- Tools I'm building (some polished, some rough)
-- Experiments in progress
-- Things that didn't work (those are useful too)
-
-I show the work raw. The wrong turns included.
-
-## Find Me
-
-- Website: [mabrax.ai](https://mabrax.ai)
-- Newsletter: *brewing* ☕
-
-If you're also figuring this out, say hi. Always curious what others are building. ✌️
+[mabrax.ai](https://mabrax.ai)
