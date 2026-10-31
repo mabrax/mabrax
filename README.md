@@ -1,19 +1,26 @@
-![Banner](banner.png)
+# Felipe Valenzuela Beck
 
-# Hey 👋
+I build real-time, engineering-grade 3D simulations in three.js and WebGPU.
+Physics first, pretty second. Robotics next.
 
-I'm Felipe. I do stuff with AI.
+One experiment a day on X: https://x.com/MabraX
+Live demos: https://mabrax.ai
 
-Software, robotics, personal projects — whatever I feel like building.
+## Recent
+- Four trees, four growth algorithms: L-system, particle flow, ul.mabrax.ai
 
-How it usually goes:
+## In progress
+- Rigging organic models
+- A pool robot
+- A lamp, built with my nephew
 
-1. Pen and paper. I think better by hand.
-2. Books. Real ones, read with my eyes.
-3. Then AI, to build the thing.
 
-AI is the hammer.
 
-Most of what's here is rough. That's fine.
 
-[mabrax.ai](https://mabrax.ai)
+
+
+
+
+
+
+
