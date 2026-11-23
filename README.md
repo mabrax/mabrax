@@ -7,7 +7,7 @@ One experiment a day on X: https://x.com/MabraX
 Live demos: https://mabrax.ai
 
 ## Recent
-- Four trees, four growth algorithms: L-system, particle flow
+- A swamp, it also carries a story...
 
 
 
